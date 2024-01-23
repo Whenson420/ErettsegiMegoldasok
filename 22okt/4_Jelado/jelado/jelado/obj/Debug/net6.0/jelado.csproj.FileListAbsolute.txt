@@ -1,0 +1,15 @@
+E:\Érettségi\22okt\4_Jelado\jelado\jelado\bin\Debug\net6.0\jelado.exe
+E:\Érettségi\22okt\4_Jelado\jelado\jelado\bin\Debug\net6.0\jelado.deps.json
+E:\Érettségi\22okt\4_Jelado\jelado\jelado\bin\Debug\net6.0\jelado.runtimeconfig.json
+E:\Érettségi\22okt\4_Jelado\jelado\jelado\bin\Debug\net6.0\jelado.dll
+E:\Érettségi\22okt\4_Jelado\jelado\jelado\bin\Debug\net6.0\jelado.pdb
+E:\Érettségi\22okt\4_Jelado\jelado\jelado\obj\Debug\net6.0\jelado.csproj.AssemblyReference.cache
+E:\Érettségi\22okt\4_Jelado\jelado\jelado\obj\Debug\net6.0\jelado.GeneratedMSBuildEditorConfig.editorconfig
+E:\Érettségi\22okt\4_Jelado\jelado\jelado\obj\Debug\net6.0\jelado.AssemblyInfoInputs.cache
+E:\Érettségi\22okt\4_Jelado\jelado\jelado\obj\Debug\net6.0\jelado.AssemblyInfo.cs
+E:\Érettségi\22okt\4_Jelado\jelado\jelado\obj\Debug\net6.0\jelado.csproj.CoreCompileInputs.cache
+E:\Érettségi\22okt\4_Jelado\jelado\jelado\obj\Debug\net6.0\jelado.dll
+E:\Érettségi\22okt\4_Jelado\jelado\jelado\obj\Debug\net6.0\refint\jelado.dll
+E:\Érettségi\22okt\4_Jelado\jelado\jelado\obj\Debug\net6.0\jelado.pdb
+E:\Érettségi\22okt\4_Jelado\jelado\jelado\obj\Debug\net6.0\jelado.genruntimeconfig.cache
+E:\Érettségi\22okt\4_Jelado\jelado\jelado\obj\Debug\net6.0\ref\jelado.dll

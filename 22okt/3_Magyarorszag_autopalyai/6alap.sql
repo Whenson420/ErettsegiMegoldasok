@@ -1,0 +1,6 @@
+SELECT …
+FROM telepules
+WHERE nev in (
+…
+) AND
+ut …;
