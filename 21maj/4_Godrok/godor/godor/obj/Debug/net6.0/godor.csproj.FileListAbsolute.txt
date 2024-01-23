@@ -1,0 +1,14 @@
+D:\Érettségi\21maj\4_Godrok\godor\godor\bin\Debug\net6.0\godor.exe
+D:\Érettségi\21maj\4_Godrok\godor\godor\bin\Debug\net6.0\godor.deps.json
+D:\Érettségi\21maj\4_Godrok\godor\godor\bin\Debug\net6.0\godor.runtimeconfig.json
+D:\Érettségi\21maj\4_Godrok\godor\godor\bin\Debug\net6.0\godor.dll
+D:\Érettségi\21maj\4_Godrok\godor\godor\bin\Debug\net6.0\godor.pdb
+D:\Érettségi\21maj\4_Godrok\godor\godor\obj\Debug\net6.0\godor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Érettségi\21maj\4_Godrok\godor\godor\obj\Debug\net6.0\godor.AssemblyInfoInputs.cache
+D:\Érettségi\21maj\4_Godrok\godor\godor\obj\Debug\net6.0\godor.AssemblyInfo.cs
+D:\Érettségi\21maj\4_Godrok\godor\godor\obj\Debug\net6.0\godor.csproj.CoreCompileInputs.cache
+D:\Érettségi\21maj\4_Godrok\godor\godor\obj\Debug\net6.0\godor.dll
+D:\Érettségi\21maj\4_Godrok\godor\godor\obj\Debug\net6.0\refint\godor.dll
+D:\Érettségi\21maj\4_Godrok\godor\godor\obj\Debug\net6.0\godor.pdb
+D:\Érettségi\21maj\4_Godrok\godor\godor\obj\Debug\net6.0\godor.genruntimeconfig.cache
+D:\Érettségi\21maj\4_Godrok\godor\godor\obj\Debug\net6.0\ref\godor.dll
