@@ -1,0 +1,41 @@
+Shortcutok:
+CTRL d = duplikálja a kijelölt sort/szöveget
+ALT uparrow/downarrow = a kijelölt sort fel vagy le viszi
+CTRL x = kivágja amit kijelöltél (és vágolapra helyezi)
+CTRL K + CTRL c = bekommenteli
+CTRL K + CTRL u = kikommenteli
+CTRL enter = egy sort rak felé
+CTRL shift enter = egy sort rak alá
+CTRL r + CTRL r = egy szöveget/változót mindenhol megváltoztat a programban
+F12 = elvisz oda ahol definiálva van a változó, függvény, stb.
+SHIFT F12 = megmutatja az összes referenciáját egy változónak, függvénynek, stb.
+CTRL r + CTRL m = egy kódrészt átír egy fügvénnyé
+CTRL k + CTRL s = egy kódrészt körbe rakhatsz valamivel pl.: if(...){...}
+
+Hasznos cuccok:
+
+HashSet<változó> nev = new HashSet<változó>(); // úgy viselkedik mint a List, de ha ismétlődő adatokat viszel be, akkor csak egyet vesz figyelembe. Pl.: bevitel: 1,2,3,2,4,5,4,2,1,5,7. HashSet: 1,2,3,4,5,7
+
+Dictionary<string, int> nev = new Dictionary<string, int>(); // (c++-ban a  Map) ez olyan mint egy két oszlopos List (nev["elso"] = 1). Ez úgy működik, hogy index helyett kulcsot használ (Console.WriteLine(nev["elso"];) // 1-et fog kiírni, Console.WriteLine(nev[1]); // "elso"-t fog kiírni).Pl.:
+Dictionary<string, int> Fizetendo = new Dictionary<string, int>();
+            foreach (Utca i in Utcak)
+            {
+                if (Fizetendo.ContainsKey(i.AdoSz))
+                {
+                    Fizetendo[i.AdoSz] += ado(i.AdoS, i.AlapT);
+                }
+                else
+                {
+                    Fizetendo[i.AdoSz] = ado(i.AdoS, i.AlapT);
+                }
+            }
+            foreach (var kvp in Fizetendo)
+            {
+                Beir.WriteLine($"{kvp.Key} {kvp.Value}");
+            }
+            Beir.Close();
+        }
+
+string sor = "Sziatok gyerekek ma tanulunk";
+Console.WriteLine($"{sor.Split(" ")[0]} {sor.Split(" ")[1]} {sor.Split(" ")[2]} {sor.Split(" ")[3]} "); //a stringnek a .Split függvényét így is tudjuk használni, nem kell egy segéd string tömb ahol el legyenek tárolva
+

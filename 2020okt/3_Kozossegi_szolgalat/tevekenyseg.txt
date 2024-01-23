@@ -1,0 +1,57 @@
+id	nev	iskolai
+58	adománygyűjtés	0
+40	ajándékcsomagolás	0
+39	állatgondozás	0
+21	óvodai munka	0
+43	betegirányítás	0
+4	delegációk kísérése	0
+41	ételosztás	0
+45	felügyelet segítése	0
+36	felvételkészítés	0
+3	festés	-1
+10	fordítás	0
+42	gyerekek gondozása	0
+16	gyerekfoglalkozás segítése	0
+52	gyermekfelügyelet	0
+27	gyermekmegőrzés	0
+26	hostesskedés	0
+48	ifjúsági műsor készítése	0
+38	információs szolgálat	0
+49	irodarendezés	0
+53	jegyszedés	0
+51	jótékonysági rendezveny	0
+44	kerti munka	0
+7	kiállítás- és díszletbontás	0
+23	koordinálási feladatok	-1
+11	korrepetálás	0
+17	kortárs segítés	0
+28	könyvtári munka	-1
+5	könyvtárrendezés	-1
+56	laboratóriumi munka segítése	0
+2	Lepkeház felügyelete	0
+47	logisztika	0
+1	nézőtéri felügyelet	0
+18	szertárrendezés	-1
+13	pecsételés, vonalkódozás	0
+14	prospektusok hajtogatása	0
+9	rendezői feladatok	0
+8	rendezvénykoordinálás	0
+32	segédeszközök készítése	0
+29	segítség a nyílt napon	-1
+6	síszertár rendezése	0
+35	elektronikus hulladék rendszerezése	-1
+15	szemétszedés	0
+24	szervezési feladatok	0
+20	szervezői feladatok	0
+22	szórólaposztás	0
+50	táboroztatás	0
+57	takarítás	0
+25	tankönyvek pakolása	0
+30	teaosztás	0
+46	telefonos applikáció próbája	0
+19	teremrendezés	-1
+55	dekorálás	0
+12	tolmácsolás	0
+34	ügyelet a szalagavatón	-1
+31	versenylebonyolítás	-1
+33	zenei szolgálat	0

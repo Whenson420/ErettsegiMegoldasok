@@ -1,0 +1,42 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+hr {
+	
+}
+
+h1, h2{
+	
+}
+
+.tartalom {
+	margin: 0 auto 0 auto;
+
+}
+
+.fejlec{
+
+}
+
+.bal {
+	width: 350px;
+	float: left;
+}
+
+.jobb {
+	margin-left: 380px;
+}
+
+.lablec {
+	clear: both;
+}
+
+.kep {
+	
+}
+
+a:link {
+	
+}
+

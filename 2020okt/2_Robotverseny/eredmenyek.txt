@@ -1,0 +1,53 @@
+﻿csapat neve	pont				legnagyobb	összesen	versenypont		megye	csapat neve	versenypont	összidő		alsó határ	csapatok száma
+LeGo	140	110	110	140					Pest	Agymanók
+DreamTeam	0	5	10	0					Fejér	DreamTeam
+Kockák	0	0	60	45					Budapest	EgyüttHatók
+Krumpli	0	0	20	0					Baranya	Emszercénégyzet
+Robotolók	0	60	45	85					Zala	Észbontók
+JRT	0	20	85	40					Fejér	Észvész
+Agymanók	20	0	20	20					Nógrád	Gorilla
+R2D2	20	45	40	0					Heves	JRT
+Gorilla	80	85	85	85					Heves	Kockák
+Mozsovi	10	80	85	90					Veszprém	Krumpli
+QWERTZ	10	10	0	5					Budapest	LeGo
+Szikra	0	0	0	15					Budapest	Mázli
+RobOttó	20	0	65	20					Vas	Mikrobi
+Transformers	0	0	0	65					Pest	Mozsovi
+Müszi	0	20	40	20					Pest	Müszi
+Optimus	0	20	25	0					Nógrád	Optimus
+EgyüttHatók	20	60	0	160					Heves	QQRIQ
+Terminator	0	0	40	40					Pest	QWERTZ
+Észvész	0	20	20	0					Tolna	R2D2
+QQRIQ	0	0	10	0					Baranya	Robotolók
+Emszercénégyzet	60	30	0	10					Zala	RobOttó
+Észbontók	40	65	65	80					Heves	Szikra
+Virtuózok	20	0	60	90					Budapest	Terminator
+Mázli	0	0	50	0					Budapest	Transformers
+Mikrobi	0	20	80	40					Budapest	Virtuózok
+
+Csapat neve	idő				legkisebb	összesen
+LeGo	101	102	102	102
+DreamTeam	5	10	11	5
+Kockák	9	7	61	64
+Krumpli	16	40	24	52
+Robotolók	12	62	73	66
+JRT	10	54	65	34
+Agymanók	52	32	49	52
+R2D2	66	111	46	14
+Gorilla	112	112	108	110	
+Mozsovi	88	91	93	72
+QWERTZ	5	8	12	17
+Szikra	32	45	102	75
+RobOttó	24	18	37	35
+Transformers	15	0	20	73
+Müszi	3	50	65	48
+Optimus	31	40	42	58
+EgyüttHatók	17	34	20	80
+Terminator	4	26	33	39
+Észvész	4	74	39	13
+QQRIQ	0	11	6	0
+Emszercénégyzet	106	93	116	14
+Észbontók	68	58	67	69
+Virtuózok	64	31	51	43
+Mázli	12	24	34	13
+Mikrobi	11	27	34	33
